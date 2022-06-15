@@ -12,7 +12,9 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
  
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=radical&layout=compact" alt="txakurhub" /></p>
-Languages and Tools:
+ </br> 
+ 
+## Languages and Tools:
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" align="center" margin-left="10px"/> 
@@ -62,8 +64,8 @@ Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" align="center" margin-left="10px"/> 
 </a>
 </p>
-
 </br>
+
 ## Contact with me:  
 <p>
   <a href="https://linkedin.com/in/leandro-pereyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-pereyra" height="30" width="40" /></a>
