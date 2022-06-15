@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋, I'm Leandro</h2>
-<h4 align="left">
+<h2 align="center">Hi 👋, I'm Leandro</h2>
+<h4 align="center">
 Web developer from Argentina with experience in PERN stack. </br>
 Currently developing a project in the final stage of Henry's bootcamp.</br> 
 Flexible, reliable, with an assertive communication style and willing to meet challenges.
