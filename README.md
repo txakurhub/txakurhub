@@ -5,6 +5,13 @@ Currently developing a project in the final stage of Henry's bootcamp.</br>
 Flexible, reliable, with an assertive communication style and willing to meet challenges.
 </h4>
 </br> 
+
+My stats:
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&show_icons=true&theme=radical" alt="txakurhub" /></p> 
+ 
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=radical&layout=compact" alt="txakurhub" /></p>
 Languages and Tools:
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -47,7 +54,6 @@ Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" align="center" margin-left="10px"/> 
 </a>
 
-
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" align="center" margin-left="10px"/> 
 </a>
@@ -55,21 +61,8 @@ Languages and Tools:
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" align="center" margin-left="10px"/> 
 </a>
-
 </p>
 
-My stats:
-<p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&show_icons=true&theme=radical" alt="txakurhub" /></p> 
- 
-<p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=radical&layout=compact" alt="txakurhub" /></p>
-
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&show_icons=true&locale=en" alt="txakurhub" /></p> 
-[![txakurhub's github stats](https://github-readme-stats.vercel.app/api?username=txakurhub)](https://github.com/txakurhub/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txakurhub&layout=compact)](https://github.com/txakurhub/github-readme-stats)
--->
 </br>
 Contact with me:  
 <p>
