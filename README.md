@@ -58,10 +58,12 @@ Languages and Tools:
 
 </p>
 <br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&show_icons=true&locale=en" alt="txakurhub" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&locale=en&layout=compact" alt="txakurhub" /></p>
+
+<!--
 [![txakurhub's github stats](https://github-readme-stats.vercel.app/api?username=txakurhub)](https://github.com/txakurhub/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txakurhub&layout=compact)](https://github.com/txakurhub/github-readme-stats)
-
+-->
 Contact with me:  
 <p>
   <a href="https://linkedin.com/in/leandro-pereyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-pereyra" height="30" width="40" /></a>
