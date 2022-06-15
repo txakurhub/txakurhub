@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi there! I'm Leandro 👋
+Web developer with experience in PERN stack. 
+Currently developing a project in the final stage of Henry's bootcamp. 
+Flexible, reliable, with an assertive communication style and willing to meet challenges.
+
+
 
 <!--
 **txakurhub/txakurhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a project in the final stage of Henry's bootcamp.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
