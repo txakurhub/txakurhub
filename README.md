@@ -6,7 +6,7 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 </h4>
 </br> 
 
-My stats:
+## My stats:
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&show_icons=true&theme=radical" alt="txakurhub" /></p> 
  
@@ -64,7 +64,7 @@ Languages and Tools:
 </p>
 
 </br>
-Contact with me:  
+## Contact with me:  
 <p>
   <a href="https://linkedin.com/in/leandro-pereyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-pereyra" height="30" width="40" /></a>
 </p>
