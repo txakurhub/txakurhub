@@ -60,7 +60,7 @@ Languages and Tools:
 
 My stats:
 <p align="center">
- <img align="center" src="[https://github-readme-stats.vercel.app/api?username=txakurhub&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=txakurhub&show_icons=true&theme=radical)" alt="txakurhub" /></p> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&show_icons=true&theme=radical" alt="txakurhub" /></p> 
  
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&locale=en&layout=compact" alt="txakurhub" /></p>
