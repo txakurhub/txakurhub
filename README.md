@@ -59,7 +59,10 @@ Languages and Tools:
 </p>
 <br/>
 My stats:
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&show_icons=true&locale=en" alt="txakurhub" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&locale=en&layout=compact" alt="txakurhub" /></p>
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&show_icons=true&locale=en" alt="txakurhub" /></p> 
+<p align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&locale=en&layout=compact" alt="txakurhub" /></p>
 
 <!--
 [![txakurhub's github stats](https://github-readme-stats.vercel.app/api?username=txakurhub)](https://github.com/txakurhub/github-readme-stats)
