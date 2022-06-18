@@ -66,6 +66,14 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 </p>
 </br>
 
+## Projects:
+<h4 align='center'>BarkLeaks</h4>
+<p align='center'>
+ https://barkleaks.vercel.app/
+    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1655513432/barkleaks/landing_1_auixbi.jpg' alt='barkleaks-landing' />
+    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1655513432/barkleaks/home_2_wytjnc.jpg' alt='barkleaks-home' />
+
+
 ## Contact with me:  
 <p>
   <a href="https://linkedin.com/in/leandro-pereyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-pereyra" height="30" width="40" /></a>
