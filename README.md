@@ -77,11 +77,13 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1655513432/barkleaks/home_2_wytjnc.jpg' alt='barkleaks-home' />
 
 <h3 align='center'>Movie App</h3>
+<p align='center'>
 Repository: https://github.com/txakurhub/movie-app
 </br>
  <img src='http://res.cloudinary.com/ddkurzft6/image/upload/v1655574316/movieapp/home_1_prcfrs.jpg' alt='movieapp-home' />
  <img src='http://res.cloudinary.com/ddkurzft6/image/upload/v1655574597/movieapp/detail_2_z18mga.jpg' alt='movieapp-detail' />
 </p>
+
 ## Contact with me:  
 <p>
   <a href="https://linkedin.com/in/leandro-pereyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-pereyra" height="30" width="40" /></a>
