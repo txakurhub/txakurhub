@@ -1,8 +1,9 @@
 <h2 align="center">Hi 👋, I'm Leandro</h2>
 <h4 align="center">
-Web developer from Argentina with experience in PERN stack. </br>
-Currently developing a project in the final stage of Henry's bootcamp.</br> 
-Flexible, reliable, with an assertive communication style and willing to meet challenges.
+Hi! I'm Leandro, full stack developer with experience in PERN stack. 
+Led the creation of an e-commerce for the purchase of sneakers. 
+Flexible, reliable, with an assertive communication style and willing to meet challenges. 
+
 </h4>
 </br> 
 
@@ -95,6 +96,7 @@ Repository: https://github.com/txakurhub/movie-app
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </p>
+
 <!--
 **txakurhub/txakurhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
