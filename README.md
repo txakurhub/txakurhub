@@ -1,9 +1,8 @@
 <h2 align="center">Hi 👋, I'm Leandro</h2>
 <h4 align="center">
-Hi! I'm Leandro, full stack developer with experience in PERN stack. 
-Led the creation of an e-commerce for the purchase of sneakers. 
+Hi! I'm Leandro, full stack developer with experience in PERN stack. </br>
+Led the creation of an e-commerce for the purchase of sneakers. </br>
 Flexible, reliable, with an assertive communication style and willing to meet challenges. 
-
 </h4>
 </br> 
 
