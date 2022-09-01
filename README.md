@@ -69,7 +69,6 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 </a>
 </p>
 </br>
-//
 
 ## Projects:
 <h3 align='center'>Sneakers E-Commerce</h3>
