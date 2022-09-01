@@ -69,8 +69,18 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 </a>
 </p>
 </br>
+//
 
 ## Projects:
+<h3 align='center'>Sneakers E-Commerce</h3>
+<p align='center'>
+ Deploy: https://sneakers-xxre.vercel.app/
+ </br>
+ Repository: https://github.com/txakurhub/pfinal_client
+ </br>
+    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1662052185/sneakers/homesneakersgithub_nsztst.jpg' alt='sneakers-home' />
+    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1662052188/sneakers/shoppingsneakersgithub_fqpela.jpg' alt='sneakers-shoppingcart' />
+
 <h3 align='center'>BarkLeaks</h3>
 <p align='center'>
  Deploy: https://barkleaks.vercel.app/
