@@ -71,6 +71,14 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 </br>
 
 ## Projects:
+<h3 align='center'>GeoSphere</h3>
+<p align='center'>
+ Deploy: https://geosphere.vercel.app/
+ </br>
+ Repository: https://github.com/txakurhub/GeoSphere
+ </br>
+    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1662387542/geosphere/geospheregithub_v2ew3l.jpg' alt='sneakers-home' />
+
 <h3 align='center'>Sneakers E-Commerce</h3>
 <p align='center'>
  Deploy: https://sneakers-xxre.vercel.app/
@@ -79,6 +87,7 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
  </br>
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1662052185/sneakers/homesneakersgithub_nsztst.jpg' alt='sneakers-home' />
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1662052188/sneakers/shoppingsneakersgithub_fqpela.jpg' alt='sneakers-shoppingcart' />
+
 
 <h3 align='center'>BarkLeaks</h3>
 <p align='center'>
