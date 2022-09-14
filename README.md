@@ -100,8 +100,10 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 
 <h3 align='center'>Movie App</h3>
 <p align='center'>
-Repository: https://github.com/txakurhub/movie-app
+ Deploy: https://moviesapp-one.vercel.app/
 </br>
+Repository: https://github.com/txakurhub/movie-app
+ </br>
  <img src='http://res.cloudinary.com/ddkurzft6/image/upload/v1655574316/movieapp/home_1_prcfrs.jpg' alt='movieapp-home' />
  <img src='http://res.cloudinary.com/ddkurzft6/image/upload/v1655574597/movieapp/detail_2_z18mga.jpg' alt='movieapp-detail' />
 </p>
