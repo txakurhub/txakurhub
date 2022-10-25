@@ -67,6 +67,8 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="bootstrap" width="50" height="50" align="center" margin-left="10px"/> 
 </a>
+
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50" align="center" margin-left="10px"/> </a>
 </p>
 </br>
 
