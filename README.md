@@ -67,6 +67,10 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" align="center" margin-left="10px"/> 
 </a>
+ 
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwind" width="50" height="50" align="center" margin-left="10px"/> 
+</a>
 
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="bootstrap" width="50" height="50" align="center" margin-left="10px"/> 
