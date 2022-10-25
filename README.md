@@ -8,7 +8,7 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 
 ## My stats:
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&show_icons=true&theme=gradient" alt="txakurhub" /></p> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&show_icons=true&theme=gradient&layout=compact" alt="txakurhub" /></p> 
  
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=gradient&layout=compact" alt="txakurhub" /></p>
