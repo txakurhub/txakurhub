@@ -11,7 +11,7 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&theme=gruvbox&show_icons=true" alt="txakurhub" /></p> 
  
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=gradient&layout=compact" alt="txakurhub" /></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=gruvbox&layout=compact" alt="txakurhub" /></p>
  </br> 
  
 ## Languages and Tools:
