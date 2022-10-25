@@ -59,6 +59,10 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" align="center" margin-left="10px"/> 
 </a>
+ 
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50" align="center" margin-left="10px"/> 
+</a>
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" align="center" margin-left="10px"/> 
@@ -68,7 +72,7 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="bootstrap" width="50" height="50" align="center" margin-left="10px"/> 
 </a>
 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50" align="center" margin-left="10px"/> </a>
+
 </p>
 </br>
 
