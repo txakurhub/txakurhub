@@ -14,6 +14,10 @@ If you are interested in having a few words, please send me a message.
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=gruvbox&layout=compact" alt="txakurhub" /></p>
  </br> 
  
+ <p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=txakurhub" alt="txakurhub" /></p>
+  </br>
+ 
 ## Languages and Tools:
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
