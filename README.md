@@ -87,7 +87,7 @@ If you are interested in having a few words, please send me a message. You can a
 </p>
 </br>
 
-## Projects:
+## Projects 🚀
 <h3 align='center'>GeoSphere</h3>
 <p align='center'>
  Deploy: https://geosphere.vercel.app/
