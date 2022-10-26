@@ -7,6 +7,11 @@ If you are interested in having a few words, please send me a message.
 </br> 
 
 ## My stats:
+ <p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=txakurhub&theme=gruvbox&column=7" alt="txakurhub" />
+ </a></p></br>
+
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&theme=gruvbox&show_icons=true" alt="txakurhub" /></p> 
  
@@ -14,10 +19,7 @@ If you are interested in having a few words, please send me a message.
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=gruvbox&layout=compact" alt="txakurhub" /></p>
  </br> 
  
- <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=txakurhub&theme=gruvbox&column=7" alt="txakurhub" />
- </a></p></br>
+
  
 ## Languages and Tools:
 <p align="center"> 
