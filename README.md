@@ -16,7 +16,7 @@ If you are interested in having a few words, please send me a message.
  
  <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=txakurhub&theme=gruvbox&column=4" alt="txakurhub" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=txakurhub&theme=gruvbox&column=7" alt="txakurhub" />
  </a></p></br>
  
 ## Languages and Tools:
