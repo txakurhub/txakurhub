@@ -2,11 +2,11 @@
 <h4 align="center">
 I'm a full-stack developer from Argentina, who enjoys to create good-looking content from the aches as working in a team. I've always been passionate about technology and when I discovered web development, I realized it would be perfect to me.
 I'm currently investigating, working and of course developing to achive my full potential.
-If you are interested in having a few words, please send me a message.
+If you are interested in having a few words, please send me a message. You can also checkout <a href="https://leandropereyra.vercel.app/>my portfolio</a>
 </h4>
 </br> 
 
-## My stats:
+## My stats 🌟
  <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=txakurhub&theme=gruvbox&column=7" alt="txakurhub" />
@@ -21,7 +21,7 @@ If you are interested in having a few words, please send me a message.
  
 
  
-## Languages and Tools:
+## Languages and Tools 🖥️
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" align="center" margin-left="10px"/> 
@@ -125,13 +125,16 @@ Repository: https://github.com/txakurhub/movie-app
  <img src='http://res.cloudinary.com/ddkurzft6/image/upload/v1655574597/movieapp/detail_2_z18mga.jpg' alt='movieapp-detail' />
 </p>
 
-## Contact with me:  
-<p>
- <br/>  
-<a href="https://linkedin.com/in/leandro-pereyra" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</p>
+## 🤝 Contact with me 📫  
+<p align="center">
+<a href="https://me.leandrop@gmail.com">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+      me.leandrop@gmail.com
+    </a><a href="https://www.linkedin.com/in/leandro-pereyra/"><img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
+      Leandro Pereyra
+    </a>
+<p/>   
+
 
 <!--
 **txakurhub/txakurhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
