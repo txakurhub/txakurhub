@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Leandro</h2>
 <p align="center">
- I'm a <strong>full-stack developer</strong> from Argentina, who enjoys to create good-looking content from the aches as working in a team. I've always been passionate about technology and when I discovered web development, I realized it would be perfect to me.
+ I'm a <mark><strong>full-stack developer</strong></mark> from Argentina, who enjoys to create good-looking content from the aches as working in a team. I've always been passionate about technology and when I discovered web development, I realized it would be <b>perfect</b> to me.
 I'm currently investigating, working and of course developing to achive my full potential.
 If you are interested in having a few words, please send me a message. You can also checkout <a href="https://leandropereyra.vercel.app/"> my portfolio </a>
 </p>
