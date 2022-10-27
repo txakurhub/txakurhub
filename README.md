@@ -125,7 +125,7 @@ Repository: https://github.com/txakurhub/movie-app
  <img src='http://res.cloudinary.com/ddkurzft6/image/upload/v1655574597/movieapp/detail_2_z18mga.jpg' alt='movieapp-detail' />
 </p>
 
-## 🤝 Contact with me 📫  
+## Contact with me 📫  
 <p align="center">
 <a href="https://me.leandrop@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
