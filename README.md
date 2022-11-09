@@ -131,7 +131,7 @@ Repository: https://github.com/txakurhub/movie-app
 <p align='center'>
  Repository: https://github.com/txakurhub/envited-technical-assessment
  </br>
-    <img src=' https://res.cloudinary.com/ddkurzft6/image/upload/v1668033716/envited%20challenge/event1_hrqc6s.jpg' alt='envited-home' />
+    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1668033716/envited%20challenge/event1_hrqc6s.jpg' alt='envited-home' />
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1668033716/envited%20challenge/event2_rwcq56.jpg' alt='envited-form' />
  </p>
 
