@@ -89,13 +89,23 @@ If you are interested in having a few words, please send me a message💬. </br>
 </br>
 
 ## Projects 🚀
+
+
+<h3 align='center'>Go Rent</h3>
+<p align='center'>
+ Deploy: https://expo.dev/@txakur/go-rent?serviceType=classic&distribution=expo-go
+ </br>
+ Repository: https://github.com/txakurhub/GoRent
+ </br>
+    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1670814470/gorent/gorent_kmrhxc.jpg' alt='gorent' />
+
 <h3 align='center'>GeoSphere</h3>
 <p align='center'>
  Deploy: https://geosphere.vercel.app/
  </br>
  Repository: https://github.com/txakurhub/GeoSphere
  </br>
-    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1662387542/geosphere/geospheregithub_v2ew3l.jpg' alt='sneakers-home' />
+    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1662387542/geosphere/geospheregithub_v2ew3l.jpg' alt='geosphere' />
 
 <h3 align='center'>Sneakers E-Commerce</h3>
 <p align='center'>
