@@ -88,7 +88,19 @@ If you are interested in having a few words, please send me a message💬. </br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="bootstrap" width="50" height="50" align="center" margin-left="10px"/> 
 </a>
 
+ <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="nodepackagemanager" width="50" height="50" align="center" margin-left="10px"/> 
+</a>
+ 
+ <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarnpkg" width="50" height="50" align="center" margin-left="10px"/> 
+</a>
+ 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongodb" width="50" height="50" align="center" margin-left="10px"/> 
+</a>
 
+ 
 </p>
 </br>
 
