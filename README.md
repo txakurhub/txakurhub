@@ -21,7 +21,7 @@ If you are interested in having a few words, please send me a message💬. </br>
  </br> 
  
  <p align="center">
- <img align="center" src="https://codewars.com/users/txakurhub/badges/small" alt="txakurhub" /></p>
+ <img align="center" src="https://codewars.com/users/txakurhub/badges/large" alt="txakurhub" /></p>
  </br> 
  
 
