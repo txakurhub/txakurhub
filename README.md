@@ -20,6 +20,10 @@ If you are interested in having a few words, please send me a message💬. </br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=gruvbox&layout=compact" alt="txakurhub" /></p>
  </br> 
  
+ <p align="center">
+ <img align="center" src="https://codewars.com/users/txakurhub/badges/small" alt="txakurhub" /></p>
+ </br> 
+ 
 
  
 ## Languages and Tools 🖥️
