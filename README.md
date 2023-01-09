@@ -3,7 +3,7 @@
 <p align="center">
  I'm a <mark><strong>full-stack developer</strong></mark>👨‍💻 from Argentina, who enjoys to create good-looking 👌 content from the aches as working in a team🤝. </br> I've always been passionate about technology💻 and when I discovered web development, I realized it would be <b>perfect</b>✨ to me. </br> 
 I'm currently investigating🕵🏽, working and of course developing to achive my full potential⚡️. </br> 
-If you are interested in having a few words, please send me a message💬. </br>  You can also checkout <a href="https://leandropereyra.vercel.app/"> my portfolio 💼</a>
+If you are interested in having a few words, please send me a message💬. </br>  You can also checkout <a href="https://www.linkedin.com/in/leandro-pereyra/"> my LinkedIn </a> or <a href="https://leandropereyra.vercel.app/"> my portfolio 💼</a>
 </p>
 </br> 
 
