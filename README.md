@@ -28,6 +28,7 @@ If you are interested in having a few words, please send me a message💬. </br>
  
 ## Languages and Tools 🖥️
 <p align="center"> 
+ 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" align="center" margin-horizontal="10px"/> 
 </a>
@@ -68,6 +69,7 @@ If you are interested in having a few words, please send me a message💬. </br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" align="center" margin-horizontal="10px"/> 
 </a>
  
+ </br>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" align="center" margin-horizontal="10px"/> 
 </a>
