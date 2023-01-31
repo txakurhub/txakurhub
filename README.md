@@ -3,7 +3,8 @@
 <p align="center">
 I am a full-stack developer from Argentina who enjoys creating visually appealing content, both individually and as part of a team. 
 </br> Technology has always been a passion of mine and when I discovered web development, I knew it was the perfect fit for me.
-</br> I am currently striving to research, work, and develop my skills to reach my full potential. If you're interested in chatting, feel free to send me a message. 
+</br> I am currently striving to research, work, and develop my skills to reach my full potential.
+<br/> If you're interested in chatting, feel free to send me a message. 
 </br> You can also checkout <a href="https://www.linkedin.com/in/leandro-pereyra/"> my LinkedIn </a> or <a href="https://leandropereyra.vercel.app/"> my portfolio </a>
 </p>
 </br> 
