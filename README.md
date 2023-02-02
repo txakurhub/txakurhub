@@ -32,80 +32,80 @@ I am a full-stack developer from Argentina who enjoys creating visually appealin
 <p align="center"> 
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" align="center" margin-horizontal="10px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" align="center" margin-horizontal="15px"/>
 </a>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" align="center" margin-horizontal="10px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" align="center" margin-horizontal="15px"/>
 </a>
 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" align="center" margin-horizontal="10px"/>
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" align="center" margin-horizontal="15px"/>
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
  
  </br>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" align="center" margin-horizontal="10px"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" align="center" margin-horizontal="15px"/> 
 </a>
  
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
  
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
 
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="bootstrap" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="bootstrap" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
 
  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="nodepackagemanager" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="nodepackagemanager" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
  
  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarnpkg" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarnpkg" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongodb" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongodb" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
  
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="50" height="50" align="center" margin-horizontal="10px"/> 
+<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
 
  
