@@ -114,12 +114,10 @@ I am a full-stack developer from Argentina who enjoys creating visually appealin
 </br>
 
 ## Projects 🚀
-https://res.cloudinary.com/ddkurzft6/image/upload/v1675870176/soffysoft/Soffysoft_tucbup.png
 
 <h3 align='center'>Soffysoft Web Page</h3>
 <p align='center'>
  URL: https://soffysoft.com
-
  </br>
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1675870176/soffysoft/Soffysoft_tucbup.png' alt='soffysoft' />
 
