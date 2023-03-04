@@ -124,6 +124,8 @@ I am a full-stack developer from Argentina who enjoys creating visually appealin
  Video: https://www.youtube.com/watch?v=fqOnJP5XrcI
  </br>
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1677860396/sin%20fronteras/sfpresentation_zsuybi.png' alt='sinfronteras' />
+    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1677860396/sin%20fronteras/sfreg_yzjvye.png' alt='sinfronteras' />
+    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1677860396/sin%20fronteras/sfcomunidad_efdtel.png' alt='sinfronteras' />
 
 
 <h3 align='center'>Soffysoft Web Page</h3>
