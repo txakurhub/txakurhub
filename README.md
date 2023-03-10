@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! I'm Leandro 👋</h2>
 
-<p align="center" margin-left="20px">
+<p align="center" margin-left="20px" margin-right="20px">
 I am a Full-Stack developer, Frontend oriented, from Argentina who enjoys creating visually appealing content, both individually and as part of a team. 
 </br> Technology has always been a passion of mine and when I discovered web development, I knew it was the perfect fit for me.
 </br> I am currently striving to research, work, and develop my skills to reach my full potential.
