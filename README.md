@@ -117,7 +117,7 @@ I am a Full-Stack developer (Frontend oriented) from Argentina who enjoys creati
 
 
 
-<h3 align='center'>Sin Fronteras</h3>
+<h2 align='center'>Sin Fronteras</h2>
 <p align='center'>
  APK: https://expo.dev/artifacts/eas/sTt11ytpqRLC3DrS2dFpHE.apk
  </br>
@@ -128,14 +128,14 @@ I am a Full-Stack developer (Frontend oriented) from Argentina who enjoys creati
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1677860396/sin%20fronteras/sfcomunidad_efdtel.png' alt='sinfronteras' />
 
 
-<h3 align='center'>Soffysoft Web Page</h3>
+<h2 align='center'>Soffysoft Web Page</h2>
 <p align='center'>
  URL: https://soffysoft.com
  </br>
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1675870176/soffysoft/Soffysoft_tucbup.png' alt='soffysoft' />
 
 
-<h3 align='center'>Go Rent</h3>
+<h2 align='center'>Go Rent</h2>
 <p align='center'>
  Deploy: https://expo.dev/@txakur/go-rent?serviceType=classic&distribution=expo-go
  </br>
