@@ -143,7 +143,7 @@ I am a Full-Stack developer (Frontend oriented) from Argentina who enjoys creati
  </br>
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1670814470/gorent/gorent_kmrhxc.jpg' alt='gorent' />
 
-<h3 align='center'>Gravity Web Page</h3>
+<h2 align='center'>Gravity Web Page</h2>
 <p align='center'>
  URL: https://agenciagravity.com
  </br>
@@ -151,7 +151,7 @@ I am a Full-Stack developer (Frontend oriented) from Argentina who enjoys creati
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1675350726/gravity/Captura2_2_ok83bb.png' alt='gravity-services' />
     
 
-<h3 align='center'>GeoSphere</h3>
+<h2 align='center'>GeoSphere</h2>
 <p align='center'>
  Deploy: https://geosphere.vercel.app/
  </br>
@@ -159,7 +159,7 @@ I am a Full-Stack developer (Frontend oriented) from Argentina who enjoys creati
  </br>
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1662387542/geosphere/geospheregithub_v2ew3l.jpg' alt='geosphere' />
 
-<h3 align='center'>Sneakers E-Commerce</h3>
+<h2 align='center'>Sneakers E-Commerce</h2>
 <p align='center'>
  Deploy: https://sneakers-xxre.vercel.app/
  </br>
@@ -169,7 +169,7 @@ I am a Full-Stack developer (Frontend oriented) from Argentina who enjoys creati
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1662052188/sneakers/shoppingsneakersgithub_fqpela.jpg' alt='sneakers-shoppingcart' />
 
 
-<h3 align='center'>BarkLeaks</h3>
+<h2 align='center'>BarkLeaks</h2>
 <p align='center'>
  Deploy: https://barkleaks.vercel.app/
  </br>
@@ -178,7 +178,7 @@ I am a Full-Stack developer (Frontend oriented) from Argentina who enjoys creati
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1655513432/barkleaks/landing_1_auixbi.jpg' alt='barkleaks-landing' />
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1655513432/barkleaks/home_2_wytjnc.jpg' alt='barkleaks-home' />
 
-<h3 align='center'>Movie App</h3>
+<h2 align='center'>Movie App</h2>
 <p align='center'>
  Deploy: https://moviesapp-one.vercel.app/
 </br>
