@@ -117,9 +117,9 @@ I am a Full-Stack developer (Frontend oriented) from Argentina who enjoys creati
 
 <h2 align='center'>Pawsitive</h2>
 <p align='center'>
- APK: https://expo.dev/artifacts/eas/sTt11ytpqRLC3DrS2dFpHE.apk
+ APK: https://expo.dev/artifacts/eas/kyevpALYMkfMGKYW2zoDUx.apk
  </br>
- Video: https://www.youtube.com/watch?v=fqOnJP5XrcI
+ Repositorio: https://github.com/No-Country/s7-27-m-desafioreactnative
  </br>
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1682120941/pawsitive/nop_h1v8vc.jpg' alt='pawsitive1' />
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1682121404/pawsitive/pawsitive4screens_lyknur.jpg' alt='pawsitive2' />
