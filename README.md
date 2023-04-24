@@ -136,7 +136,7 @@ I am a Full-Stack developer (Frontend oriented) from Argentina who enjoys creati
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1677860396/sin%20fronteras/sfcomunidad_efdtel.png' alt='sinfronteras' />
 
 
-<h2 align='center'>Soffysoft Web Page</h2>
+<h2 align='center'>Soffysoft</h2>
 <p align='center'>
  URL: https://soffysoft.com
  </br>
@@ -151,7 +151,7 @@ I am a Full-Stack developer (Frontend oriented) from Argentina who enjoys creati
  </br>
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1670814470/gorent/gorent_kmrhxc.jpg' alt='gorent' />
 
-<h2 align='center'>Gravity Web Page</h2>
+<h2 align='center'>Gravity</h2>
 <p align='center'>
  URL: https://agenciagravity.com
  </br>
