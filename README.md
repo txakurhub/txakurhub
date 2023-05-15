@@ -10,14 +10,14 @@ I am a Full-Stack developer from Argentina (Frontend oriented) who enjoys creati
 </br> 
 
 ## My stats 🌟
- <p align="center">
+ <div align="center">
  
- <p align="center">
+ <div align="center">
  [![GitHub Streak](https://streak-stats.demolab.com/?user=txakurhub)](https://git.io/streak-stats)
-  </p>
+  </div>
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=txakurhub&theme=gruvbox&column=7" alt="txakurhub" />
- </a></p></br>
+ </a></div></br>
 
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&theme=gruvbox&show_icons=true" alt="txakurhub" /></p> 
