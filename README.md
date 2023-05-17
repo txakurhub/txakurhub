@@ -14,6 +14,7 @@ I am a Full-Stack developer from Argentina (Frontend oriented) who enjoys creati
  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=txakurhub&theme=gruvbox&hide_border=true&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
+ <br/>
 
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=txakurhub&theme=gruvbox&column=7" alt="txakurhub" />
@@ -21,6 +22,8 @@ I am a Full-Stack developer from Argentina (Frontend oriented) who enjoys creati
  <br/>
 
 <div align="center">
+ <br/>
+ 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&theme=gruvbox&show_icons=true" alt="txakurhub" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=gruvbox&layout=compact" alt="txakurhub" />
  </div>
