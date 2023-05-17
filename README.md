@@ -13,7 +13,7 @@ I am a Full-Stack developer from Argentina (Frontend oriented) who enjoys creati
  <div align="center">
  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=txakurhub&theme=dark&hide_border=true&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=txakurhub&theme=gruvbox&hide_border=true&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
 
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=txakurhub&theme=gruvbox&column=7" alt="txakurhub" />
