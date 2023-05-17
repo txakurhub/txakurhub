@@ -22,10 +22,11 @@ I am a Full-Stack developer from Argentina (Frontend oriented) who enjoys creati
 
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&theme=gruvbox&show_icons=true" alt="txakurhub" />
- 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=gruvbox&layout=compact" alt="txakurhub" />
-
  </div>
+ 
+ <br/>
+
 <div align="center">
  <img align="center" src="https://codewars.com/users/txakurhub/badges/large" alt="txakurhub" />
 </div>
