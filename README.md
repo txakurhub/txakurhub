@@ -17,7 +17,8 @@ I am a Full-Stack developer from Argentina (Frontend oriented) who enjoys creati
 
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=txakurhub&theme=gruvbox&column=7" alt="txakurhub" />
- </a></div></br>
+ </a>
+ </br>
 
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&theme=gruvbox&show_icons=true" alt="txakurhub" />
@@ -25,9 +26,9 @@ I am a Full-Stack developer from Argentina (Frontend oriented) who enjoys creati
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=gruvbox&layout=compact" alt="txakurhub" />
 
  </div>
-<p align="center">
-
- <img align="center" src="https://codewars.com/users/txakurhub/badges/large" alt="txakurhub" /></p>
+<div align="center">
+ <img align="center" src="https://codewars.com/users/txakurhub/badges/large" alt="txakurhub" />
+</div>
  </br> 
  
 
