@@ -17,7 +17,7 @@ I am a Full-Stack developer from Argentina (Frontend oriented) who enjoys creati
  <br/>
 
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=txakurhub&theme=gruvbox&column=7" alt="txakurhub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=txakurhub&theme=gruvbox&column=4" alt="txakurhub" />
  </a>
  <br/>
 
