@@ -124,6 +124,14 @@ I am a Full-Stack developer from Argentina (Frontend oriented) who enjoys creati
 
 ## Projects 🚀
 
+<h2 align='center'>Cryptoforensics</h2>
+<p align='center'>
+URL: https://cryptoforensics.io
+ </br>
+    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1686788468/cryptoforensics/Captura_de_pantalla_2023-06-14_211839_fzoayk.png' alt='cryptoforensics' />
+    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1686788468/cryptoforensics/Captura_de_pantalla_2023-06-14_211800_pnh0qm.png' alt='cryptoforensics' />
+
+
 <h2 align='center'>Pawsitive</h2>
 <p align='center'>
  APK: https://expo.dev/artifacts/eas/kyevpALYMkfMGKYW2zoDUx.apk
