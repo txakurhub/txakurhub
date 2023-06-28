@@ -220,6 +220,7 @@ Repository: https://github.com/txakurhub/movie-app
 <h3 align='center'>Ego</h3>
 <p align='center'>
  Repository: https://github.com/txakurhub/ego-challenge
+<br/>
  Deploy: https://ego-challenge-two.vercel.app 
  </br>
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1687967896/egochallenge/egochallenge_zbqwjb.png' alt='ego-home' />
