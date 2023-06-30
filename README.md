@@ -2,9 +2,10 @@
 
 <p align="center" >
 I am an Argentina-based Full-Stack developer with a focus on Frontend development.<br/> I take great pleasure in crafting visually captivating content, whether independently or as a collaborative effort within a team. 
-</br> Technology has always been a passion of mine and when I discovered web development, I knew it was the ideal match for my interests.
-</br> I am currently striving to research, work, and develop my skills to reach my full potential.
-<br/> If you'd like to connect and have a conversation, please feel free to send me a message. You can also visit my <a href="https://www.linkedin.com/in/leandro-pereyra/">linkedIn </a> profile or browse through my <a href="https://leandropereyra.ar/">website </a> for more information.
+<br/> Technology has always been a passion of mine and when I discovered web development, I knew it was the ideal match for my interests.
+<br/> I am currently striving to research, work, and develop my skills to reach my full potential.
+<br/> If you'd like to connect and have a conversation, please feel free to send me a message.
+<br/> You can also visit my <a href="https://www.linkedin.com/in/leandro-pereyra/">linkedIn </a> profile or browse through my <a href="https://leandropereyra.ar/">website </a> for more information.
 </p>
 </br> 
 
