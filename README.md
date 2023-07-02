@@ -1,7 +1,8 @@
+
 <h2 align="center">Hi there! I'm Leandro 👋</h2>
 
 <p align="center" >
-I am an Argentina-based Full-Stack developer with a focus on Frontend development.<br/> I take great pleasure in crafting visually captivating content, whether independently or as a collaborative effort within a team. 
+I am an Argentinian based Full-Stack developer with a focus on Frontend development.<br/> I take great pleasure in crafting visually captivating content, whether independently or as a collaborative effort within a team. 
 <br/> Technology has always been a passion of mine and when I discovered web development, I knew it was the ideal match for my interests.
 <br/> I am currently striving to research, work, and develop my skills to reach my full potential.
 <br/> If you'd like to connect and have a conversation, please feel free to send me a message.
