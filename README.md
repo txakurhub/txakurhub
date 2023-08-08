@@ -10,6 +10,8 @@ I am an Argentinian based Full-Stack developer with a focus on Frontend developm
 </p>
 </br> 
 
+![](https://komarev.com/ghpvc/?username=txakurhub)
+
 ## My stats 🌟
  <div align="center">
  
