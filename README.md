@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=txakurhub&color=yellow&style=for-the-badge&label=profile)
 
 <h2 align="center">Hi there! I'm Leandro 👋</h2>
 
@@ -8,9 +9,9 @@ I am an Argentinian based Full-Stack developer with a focus on Frontend developm
 <br/> If you'd like to connect and have a conversation, please feel free to send me a message.
 <br/> You can also visit my <a href="https://www.linkedin.com/in/leandro-pereyra/">linkedIn </a> profile or browse through my <a href="https://leandropereyra.ar/">website </a> for more information.
 </p>
+<!---->
 </br> 
-![](https://komarev.com/ghpvc/?username=txakurhub&color=yellow&style=for-the-badge)
-<br/>
+
 ## My stats 🌟
  <div align="center">
 
