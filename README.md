@@ -10,10 +10,10 @@ I am an Argentinian based Full-Stack developer with a focus on Frontend developm
 </p>
 </br> 
 
+![](https://komarev.com/ghpvc/?username=txakurhub&color=yellow)
 
 ## My stats 🌟
  <div align="center">
-![](https://komarev.com/ghpvc/?username=txakurhub&color=yellow)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=txakurhub&theme=gruvbox&hide_border=true&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
  <br/>
