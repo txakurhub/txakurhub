@@ -10,7 +10,6 @@ I am an Argentinian based Full-Stack developer with a focus on Frontend developm
 </p>
 </br> 
 
-![](https://komarev.com/ghpvc/?username=txakurhub)
 
 ## My stats 🌟
  <div align="center">
@@ -247,6 +246,7 @@ Repository: https://github.com/txakurhub/movie-app
       Leandro Pereyra
     </a>
 <p/>   
+![](https://komarev.com/ghpvc/?username=txakurhub)
 
  
 <!--
