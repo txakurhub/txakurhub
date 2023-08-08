@@ -246,8 +246,9 @@ Repository: https://github.com/txakurhub/movie-app
       Leandro Pereyra
     </a>
 <p/>   
-![](https://komarev.com/ghpvc/?username=txakurhub)
 
+<br/>
+![](https://komarev.com/ghpvc/?username=txakurhub)
  
 <!--
 **txakurhub/txakurhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
