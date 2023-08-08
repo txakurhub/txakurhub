@@ -36,7 +36,7 @@ I am an Argentinian based Full-Stack developer with a focus on Frontend developm
  <img align="center" src="https://codewars.com/users/txakurhub/badges/large" alt="txakurhub" />
 </div>
  </br> 
- 
+ ![](https://komarev.com/ghpvc/?username=txakurhub)
 
  
 ## Languages and Tools 🖥️
@@ -248,7 +248,7 @@ Repository: https://github.com/txakurhub/movie-app
 <p/>   
 
 <br/>
-![](https://komarev.com/ghpvc/?username=txakurhub)
+
  
 <!--
 **txakurhub/txakurhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
