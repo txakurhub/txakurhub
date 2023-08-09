@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=txakurhub&color=yellow&style=for-the-badge&label=profile)
+![](https://komarev.com/ghpvc/?username=txakurhub&color=yellow&style=for-the-badge&label=p)
 
 <h2 align="center">Hi there! I'm Leandro 👋</h2>
 
