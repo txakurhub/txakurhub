@@ -124,7 +124,7 @@ I am an Argentinian based Full-Stack developer with a focus on Frontend developm
 
 ## Projects 🚀
 
-
+<!--
 <h2 align='center'>MF Estudio - Abogados</h2>
 <p align='center'>
  
@@ -132,7 +132,7 @@ URL: https://mfestudio.com.ar
  
  </br>
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1695317290/mfEstudio/Captura_de_pantalla_2023-09-21_142528_mqfkvy.png' alt='mf-estudio' />
-
+-->
 
 
 <h2 align='center'>Cryptoforensics</h2>
