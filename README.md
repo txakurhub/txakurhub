@@ -131,7 +131,7 @@ I am a Full-Stack developer with a focus on Frontend development.<br/> I take gr
 URL: https://mfestudio.com.ar
  
  </br>
-    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1695317290/mfEstudio/Captura_de_pantalla_2023-09-21_142528_mqfkvy.png' alt='mf-estudio' />
+    <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1696316632/mfEstudio/Captura_de_pantalla_2023-10-03_040254_azeafi.png' alt='mf-estudio' />
 -->
 
 
