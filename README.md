@@ -44,6 +44,11 @@ I am a Full-Stack developer with a focus on Frontend development.<br/> I take gr
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="50" height="50" align="center" margin-horizontal="15px"/> 
+</a>
+
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="50" height="50" align="center" margin-horizontal="15px"/> 
 </a>
