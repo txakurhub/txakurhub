@@ -29,7 +29,7 @@ I am a Full-Stack developer with a focus on Frontend development.<br/> I take gr
  <br/>
  
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&theme=gruvbox&show_icons=true" alt="txakurhub" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=gruvbox&langs_count=10&layout=compact" alt="txakurhub" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=gruvbox&langs_count=7&layout=compact" alt="txakurhub" />
 
  <!--  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&layout=compact&langs_count=8&card_width=320" />
