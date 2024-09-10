@@ -1,9 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 
 
 ![](https://komarev.com/ghpvc/?username=txakurhub&color=yellow&style=for-the-badge&label=p)
@@ -34,7 +29,11 @@ I am a Full-Stack developer with a focus on Frontend development.<br/> I take gr
  <br/>
  
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub&theme=gruvbox&show_icons=true" alt="txakurhub" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=gruvbox&layout=compact" alt="txakurhub" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&show_icons=true&theme=gruvbox&langs_count=8&layout=compact" alt="txakurhub" />
+
+ <!--  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=txakurhub" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=txakurhub&layout=compact&langs_count=8&card_width=320" />
+  -->
  </div>
  
  <br/>
