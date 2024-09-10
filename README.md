@@ -1,4 +1,4 @@
-[![txakur stats](https://github-readme-stats.vercel.app/api/wakatime?username=txakurhub)](https://github.com/txakurhub/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=txakurhub)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=txakurhub&color=yellow&style=for-the-badge&label=p)
 
 <h2 align="center">Hi there! I'm Leandro 👋</h2>
