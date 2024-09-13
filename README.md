@@ -21,7 +21,7 @@ I am a Full-Stack developer with a focus on Frontend development.<br/> I take gr
  <br/>
 
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=txakurhub&theme=gruvbox&column=5" alt="txakurhub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=txakurhub&theme=gruvbox&column=3" alt="txakurhub" />
  </a>
  <br/>
 
