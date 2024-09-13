@@ -1,7 +1,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=txakurhub&color=yellow&style=for-the-badge&label=p)
+![](https://komarev.com/ghpvc/?username=txakurhub&color=yellow&style=for-the-badge)
 
 <h2 align="center">Hi there! I'm Leandro 👋</h2>
 
