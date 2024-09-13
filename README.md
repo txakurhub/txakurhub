@@ -1,7 +1,8 @@
 
 
-
+<div align="end">
 ![](https://komarev.com/ghpvc/?username=txakurhub&color=yellow)
+ </div>
 
 <h2 align="center">Hi there! I'm Leandro 👋</h2>
 
