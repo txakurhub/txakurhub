@@ -39,6 +39,7 @@ I am a Full-Stack developer with a focus on Frontend development.<br/> I take gr
  <br/>
 
 <div align="center">
+ <figure><embed src="https://wakatime.com/share/@82edab17-311d-4eeb-b205-336fd17a9eae/c54fb9ff-01c9-41ff-9bf1-57d676fd38d4.svg"></embed></figure>
  <img align="center" src="https://codewars.com/users/txakurhub/badges/large" alt="txakurhub" />
 </div>
  </br> 
