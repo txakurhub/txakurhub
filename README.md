@@ -38,9 +38,9 @@ I am a Full-Stack developer with a focus on Frontend development.<br/> I take gr
  
  <br/>
 
-<div align="center">
- <img align="center" style="width:32rem;" src="https://wakatime.com/share/@82edab17-311d-4eeb-b205-336fd17a9eae/be42fe92-0030-4087-8386-a151ea3f1d0a.png" />
+<div>
  <img align="center" src="https://codewars.com/users/txakurhub/badges/large" alt="txakurhub" />
+ <img align="center" style="width:36rem;" src="https://wakatime.com/share/@82edab17-311d-4eeb-b205-336fd17a9eae/be42fe92-0030-4087-8386-a151ea3f1d0a.png" />
 </div>
  </br> 
 
