@@ -1,6 +1,6 @@
 
 
-<div style="float: right;">
+<div style="align: right;">
  <img src="https://komarev.com/ghpvc/?username=txakurhub&color=yellow" alt="profile-views"/>
  </div>
 
