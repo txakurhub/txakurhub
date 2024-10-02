@@ -7,11 +7,19 @@
 <h2 align="center">Hi there! I'm Leandro 👋</h2>
 
 <p align="center" >
-I am a Full-Stack developer with a focus on Frontend development.<br/> I take great pleasure in crafting visually captivating content, whether independently or as a collaborative effort within a team. 
-<br/> Technology has always been a passion of mine and when I discovered web development, I knew it was the ideal match for my interests.
-<br/> I am currently striving to research, work, and develop my skills to reach my full potential.
-<br/> If you'd like to connect and have a conversation, please feel free to send me a message.
-<br/> You can also visit my <a href="https://www.linkedin.com/in/leandro-pereyra/">linkedIn </a> profile or browse through my <a href="https://leandro-lac.vercel.app/">website </a> for more information.
+I started in the world of technology at 11 when I began to dig into the fundamentals of MS-DOS as an excuse to play videogames. 
+I continued studying advanced PC assembly, hardware, and software configuration, which turned me into the go-to 'computer whisperer' for friends and family up to today.
+
+<br/>
+When the pandemic hit and we all found ourselves at home, I figured it was the perfect time to start my programming studies.
+Looking back, I can say that I’ve been fully focused on web and mobile development for the last two years.
+<br/>
+
+<br/>
+During my journey as a programmer, I've had the opportunity to work on several significant projects. 
+In fact, I built the frontend for an online course platform all by myself. 
+It had everything from user logins to an admin panel for managing courses, classes, and tests. 
+If you're interested in seeing more of my work or connecting, feel free to check out my <a href="https://leandro-lac.vercel.app/">portfolio</a> or <a href="https://www.linkedin.com/in/leandro-pereyra/">linkedIn</a>!
 </p>
 </br> 
 
