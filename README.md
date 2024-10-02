@@ -9,7 +9,7 @@
 <p align="center" >
 I started in the world of technology at 11 when I began to dig into the fundamentals of MS-DOS as an excuse to play videogames. 
 <br/>
-I continued studying advanced PC assembly, hardware, and software configuration, which turned me into the go-to 'computer whisperer' for friends and family up to today.
+I continued studying advanced PC assembly, hardware and software configuration, which turned me into the go-to 'computer whisperer' for friends and family up to today.
 <br/>
 
 <br/>
@@ -25,7 +25,7 @@ In fact, I built the frontend for an online course platform all by myself.
 <br/>
 It had everything from user logins to an admin panel for managing courses, classes, and tests. 
 <br/>
-If you're interested in seeing more of my work or connecting, feel free to check out my <a href="https://leandro-lac.vercel.app/">portfolio</a> or <a href="https://www.linkedin.com/in/leandro-pereyra/">linkedIn</a>!
+If you're interested in seeing more of my work or connecting, feel free to check out my <a href="https://leandro-lac.vercel.app/">portfolio</a> or <a href="https://www.linkedin.com/in/leandro-pereyra/">linkedIn</a>.
 </br> 
 </p>
 
