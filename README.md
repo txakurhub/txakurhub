@@ -15,7 +15,7 @@ I continued studying advanced PC assembly, hardware and software configuration, 
 <br/>
 When the pandemic hit and we all found ourselves at home, I figured it was the perfect time to start my programming studies.
 <br/>
-Looking back, I can say that I’ve been fully focused on web and mobile development for the last two years.
+Looking back, I can say that I’ve been fully focused on web and mobile development for the last years.
 <br/>
 
 <br/>
