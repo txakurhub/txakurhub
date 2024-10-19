@@ -4,9 +4,9 @@
  <img style="align: right;" src="https://komarev.com/ghpvc/?username=txakurhub&color=yellow" alt="profile-views"/>
  </div>
 
- <p align="center">
+ <div align="center">
 # Hi there! **I'm Leandro** 👋
- </p>
+ </div>
 
 
 <p align="center" >
