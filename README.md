@@ -5,7 +5,7 @@
  </div>
 
  <h1 align="center">
-# Hi there! **I'm Leandro** 👋
+ Hi there! <b>I'm Leandro</b> 👋
  </h1>
 
 
