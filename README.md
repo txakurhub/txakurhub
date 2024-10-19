@@ -4,9 +4,9 @@
  <img style="align: right;" src="https://komarev.com/ghpvc/?username=txakurhub&color=yellow" alt="profile-views"/>
  </div>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-  <h2>Hi there!</h2>
-  <h1>I'm Leandro 👋</h1>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <h2 style="margin-bottom: 0;">Hi there!</h2>
+  <h1 style="margin-top: 0;">I'm Leandro 👋</h1>
 </div>
 
 <p align="center" >
