@@ -4,10 +4,9 @@
  <img style="align: right;" src="https://komarev.com/ghpvc/?username=txakurhub&color=yellow" alt="profile-views"/>
  </div>
  
-<div style="text-align: center;">
-  <span style="font-size: 1.5em;">Hi there!</span><br>
-  <span style="font-size: 2em;">I'm Leandro 👋</span>
-</div>
+**Hi there!**
+# I'm Leandro 👋
+
 
 <p align="center" >
 I started in the world of technology at 11 when I began to dig into the fundamentals of MS-DOS as an excuse to play videogames. 
