@@ -3,10 +3,10 @@
 <div style="align: right;">
  <img style="align: right;" src="https://komarev.com/ghpvc/?username=txakurhub&color=yellow" alt="profile-views"/>
  </div>
-
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <h2 style="margin-bottom: 0;">Hi there!</h2>
-  <h1 style="margin-top: 0;">I'm Leandro 👋</h1>
+ 
+<div style="text-align: center;">
+  <span style="font-size: 1.5em;">Hi there!</span><br>
+  <span style="font-size: 2em;">I'm Leandro 👋</span>
 </div>
 
 <p align="center" >
