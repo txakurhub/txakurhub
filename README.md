@@ -6,8 +6,7 @@
 
 <div style="display: flex; flex-direction: flex-column; align-items:center; justify-items:center;">
 <h2 align="center">Hi there!</h2>
- <br/>
- <h1>I'm Leandro 👋</h1>
+ <h1 align="center">I'm Leandro 👋</h1>
  </div>
 
 <p align="center" >
