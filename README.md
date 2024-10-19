@@ -3,8 +3,10 @@
 <div style="align: right;">
  <img style="align: right;" src="https://komarev.com/ghpvc/?username=txakurhub&color=yellow" alt="profile-views"/>
  </div>
- 
+
+ <p align="center">
 # Hi there! **I'm Leandro** 👋
+ </p>
 
 
 <p align="center" >
