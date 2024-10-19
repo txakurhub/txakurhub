@@ -4,10 +4,10 @@
  <img style="align: right;" src="https://komarev.com/ghpvc/?username=txakurhub&color=yellow" alt="profile-views"/>
  </div>
 
-<div style="display: flex; flex-direction: flex-column; align-items:center; justify-items:center;">
-<h2 align="center">Hi there!</h2>
- <h1 align="center">I'm Leandro 👋</h1>
- </div>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <h2>Hi there!</h2>
+  <h1>I'm Leandro 👋</h1>
+</div>
 
 <p align="center" >
 I started in the world of technology at 11 when I began to dig into the fundamentals of MS-DOS as an excuse to play videogames. 
