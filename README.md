@@ -28,7 +28,7 @@ In fact, I built the frontend for an online course platform all by myself.
 <br/>
 It had everything from user logins to an admin panel for managing courses, classes, and tests. 
 <br/>
-If you're interested in seeing more of my work or connecting, feel free to check out my <a href="https://leandro-lac.vercel.app/">portfolio</a> or <a href="https://www.linkedin.com/in/leandro-pereyra/">linkedIn</a>.
+If you're interested in seeing more of my work or connecting, feel free to check out my <a href="https://leandropereyra.es/">portfolio</a> or <a href="https://www.linkedin.com/in/leandro-pereyra/">linkedIn</a>.
 </br> 
 </p>
 
