@@ -9,7 +9,7 @@
 
 ## 🧰 Un pequeño resumen
 
-Empecé a los ~10 años viendo hasta donde podía llegar en MS-DOS, intentando encontrar un juego o pasar el tiempo. Tiempo después hice varios cursos: de 'computación' como tal, el paquete office y cositas así. Hasta que llegó el armado y reparación de PCs, el hardware y la configuración de software, y sin de a poco me convertí en EL que arregla la compu (o cualquier dispositivo electrónico) de amigos, familia y allegados. Hoy, varios años después, esa curiosidad sigue siendo el motor.
+Empecé a los ~10 años viendo hasta donde podía llegar en MS-DOS, intentando encontrar un juego o pasar el tiempo. Tiempo después hice varios cursos: de 'computación' como tal, el paquete office y cositas así hasta que llegó el armado y reparación de PCs. El hardware y la configuración de software, y de a poco me convertí en el-que-arregla la compu (o cualquier dispositivo electrónico, claro) de amigos, familia y allegados. Hoy, varios años después, esa curiosidad sigue siendo el motor.
 
 Hace más de 10 años que trabajo como técnico de soporte y reparación de manera autónoma, con **Windows, Linux, macOS y hardware**. En la pandemia sumé la programación y aprendí desarrollo web y móvil, que hoy me permite entender los problemas desde los dos lados y automatizar lo repetitivo.
 
