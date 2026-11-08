@@ -56,10 +56,16 @@ Un laboratorio para practicar lo que hace un equipo de IT de verdad. Voy documen
 <br/>
 
 **Trabajos para clientes**
-- ⚖️ **Inmoalianza:** [inmoalianza.es](https://inmoalianza.es)
+- 🏠 **Inmoalianza:** [inmoalianza.es](https://inmoalianza.es)
+- 🎵 **IoSaturnalia:** [iosaturnalia.net](https://iosaturnalia.net)
+- 👕 **Rotten Future:** [rotten-future.com](https://rotten-future.com)
+- 👗 **Karamelo:** [karamelo.com.ar](https://karamelo.com.ar)
+- 🎸 **Manso Muñeco:** [mansomuneco.com](https://mansomuneco.com)
 - ⚖️ **MF Estudio – Abogados:** [mfestudio.com.ar](https://mfestudio.com.ar)
+- 🔍 **CryptoForensics:** [cryptoforensics.io](https://cryptoforensics.io)
 - 🧩 **Soffysoft:** [soffysoft.com](https://soffysoft.com)
 - 📣 **Gravity:** [agenciagravity.com](https://agenciagravity.com)
+- 🏛️ **Horizontal Arquitectos:** [horizontal.com.ar](https://horizontal.com.ar)
 
 **Apps y proyectos propios**
 - 🐾 **Pawsitive** (app móvil): [repositorio](https://github.com/No-Country/s7-27-m-desafioreactnative) · [APK](https://expo.dev/artifacts/eas/kyevpALYMkfMGKYW2zoDUx.apk)
